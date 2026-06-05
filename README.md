@@ -1,4 +1,4 @@
-# 1st
+1st
 this is my first repository
 <br>
-Author-durga
+Author-durga(Durga devi)
